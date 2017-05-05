@@ -1,0 +1,312 @@
+{
+  "_embedded" : {
+    "books" : [ {
+      "author" : "Donovan, Alan A. A. / Kernighan, Brian W.",
+      "title" : "The Go Programming Language",
+      "publisher" : "Addison-Wesley Professional",
+      "isbn" : "978-0134190440",
+      "publication" : "2015-11-05",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/1"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/1"
+        }
+      }
+    }, {
+      "author" : "Petzold, Charles",
+      "title" : "Windows-programmierung Mit C",
+      "publisher" : "Microsoft Press",
+      "isbn" : "978-3860636527",
+      "publication" : "2002-01-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/2"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/2"
+        }
+      }
+    }, {
+      "author" : "Köhler, Peter",
+      "title" : "ITIL: Das IT-Servicemanagement Framework",
+      "publisher" : "Springer",
+      "isbn" : "978-3540228936",
+      "publication" : "2005-01-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/3"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/3"
+        }
+      }
+    }, {
+      "author" : "Richter, Jeffrey",
+      "title" : "Applied Microsoft .Net Framework Programming",
+      "publisher" : "Microsoft Press",
+      "isbn" : "978-0735614222",
+      "publication" : "2002-01-22",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/4"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/4"
+        }
+      }
+    }, {
+      "author" : "Riley, John P.",
+      "title" : "Getting Started With the SID",
+      "publisher" : "TM Forum",
+      "isbn" : "978-0979428104",
+      "publication" : "2007-01-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/5"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/5"
+        }
+      }
+    }, {
+      "author" : "Rao, P. Raja Malleswara",
+      "title" : "Spring Batch Essentials",
+      "publisher" : "Packt Publishing",
+      "isbn" : "978-1783553372",
+      "publication" : "2015-01-23",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/6"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/6"
+        }
+      }
+    }, {
+      "author" : "Pandey, Chandan",
+      "title" : "Spring Integration Essentials",
+      "publisher" : "Packt Publishing - Ebooks Account",
+      "isbn" : "978-1783989164",
+      "publication" : "2015-01-30",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/7"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/7"
+        }
+      }
+    }, {
+      "author" : "Pollack, Mark / Gierke, Oliver / Risberg, Thomas / Brisbin, Jon / Hunger, Michael / Brisbin, Jonathan",
+      "title" : "Spring Data",
+      "publisher" : "O'Reilly Media",
+      "isbn" : "978-1449323950",
+      "publication" : "2012-10-31",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/8"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/8"
+        }
+      }
+    }, {
+      "author" : "Subramaniam, Venkat",
+      "title" : "Programming Groovy 2",
+      "publisher" : "Pragmatic Bookshelf",
+      "isbn" : "978-1937785307",
+      "publication" : "2013-07-22",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/9"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/9"
+        }
+      }
+    }, {
+      "author" : "Kousen, Kenneth A.",
+      "title" : "Making Java Groovy",
+      "publisher" : "Manning",
+      "isbn" : "978-1935182948",
+      "publication" : "2013-09-30",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/10"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/10"
+        }
+      }
+    }, {
+      "author" : "Dees, Ian / Wynne, Matt / Hellesoy, Aslak",
+      "title" : "Cucumber Recipes",
+      "publisher" : "Pragmatic Bookshelf",
+      "isbn" : "978-1937785017",
+      "publication" : "2013-02-19",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/11"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/11"
+        }
+      }
+    }, {
+      "author" : "Wynne, Matt / Hellesoy, Aslak",
+      "title" : "Cucumber Book, The",
+      "publisher" : "Pragmatic Bookshelf",
+      "isbn" : "978-1934356807",
+      "publication" : "2012-02-07",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/12"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/12"
+        }
+      }
+    }, {
+      "author" : "Chelimsky, David / North, Dan / Hellesoy, Aslak / Astels, Dave / Helmkamp, Bryan / Dennis, Zach / Carter, Jacquelyn",
+      "title" : "Rspec Book, The",
+      "publisher" : "Pragmatic Bookshelf",
+      "isbn" : "978-1934356371",
+      "publication" : "2010-12-22",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/13"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/13"
+        }
+      }
+    }, {
+      "author" : "Adzic, Gojko",
+      "title" : "Specification By Example",
+      "publisher" : "Manning Publications",
+      "isbn" : "978-1617290084",
+      "publication" : "2011-06-03",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/14"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/14"
+        }
+      }
+    }, {
+      "author" : "Adzic, Gojko",
+      "title" : "Bridging the Communication Gap: Specification By Example and Agile Acceptance Testing",
+      "publisher" : "Neuri Limited",
+      "isbn" : "978-0955683619",
+      "publication" : "2009-01-05",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/15"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/15"
+        }
+      }
+    }, {
+      "author" : "Amundsen, Michael",
+      "title" : "Building Hypermedia Apis With Html5 and Node",
+      "publisher" : "O'Reilly Media",
+      "isbn" : "978-1449306571",
+      "publication" : "2011-12-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/16"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/16"
+        }
+      }
+    }, {
+      "author" : "Feathers, Michael C.",
+      "title" : "Working Effectively With Legacy Code",
+      "publisher" : "Prentice Hall",
+      "isbn" : "978-0131177055",
+      "publication" : "2004-10-02",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/17"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/17"
+        }
+      }
+    }, {
+      "author" : "Evans, Benjamin J. / Verburg,   Martijn",
+      "title" : "Well-grounded Java Developer: Vital Techniques Of Java 7 and Polyglot Programming, The",
+      "publisher" : "Manning Publications",
+      "isbn" : "978-1617290060",
+      "publication" : "2012-07-18",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/18"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/18"
+        }
+      }
+    }, {
+      "author" : "Goetz, Brian / Peierls, Tim / Bloch, Joshua / Bowbeer, Joseph / Holmes, David / Lea, Doug",
+      "title" : "Java Concurrency in Practice",
+      "publisher" : "Addison-Wesley Professional",
+      "isbn" : "978-0321349606",
+      "publication" : "2006-05-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/19"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/19"
+        }
+      }
+    }, {
+      "author" : "Cohn, Mike",
+      "title" : "Succeeding With Agile: Software Development Using Scrum",
+      "publisher" : "Addison-Wesley Professional",
+      "isbn" : "978-0321579362",
+      "publication" : "2009-10-01",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/books/20"
+        },
+        "book" : {
+          "href" : "http://localhost:8080/books/20"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "http://localhost:8080/books?page=0&size=20"
+    },
+    "self" : {
+      "href" : "http://localhost:8080/books{?page,size,sort}",
+      "templated" : true
+    },
+    "next" : {
+      "href" : "http://localhost:8080/books?page=1&size=20"
+    },
+    "last" : {
+      "href" : "http://localhost:8080/books?page=3&size=20"
+    },
+    "profile" : {
+      "href" : "http://localhost:8080/profile/books"
+    },
+    "search" : {
+      "href" : "http://localhost:8080/books/search"
+    }
+  },
+  "page" : {
+    "size" : 20,
+    "totalElements" : 68,
+    "totalPages" : 4,
+    "number" : 0
+  }
+}
