@@ -8,8 +8,17 @@
 <body>
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
 <div id="app">
-    <p>{{ message }}</p>sdf
+    <p>{{ message }}</p>
 </div>
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue.js!'
+        }
+    })
+</script>
 
 </body>
 </html>
